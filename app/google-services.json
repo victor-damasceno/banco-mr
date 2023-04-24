@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486282032398",
+    "project_id": "banco-mr",
+    "storage_bucket": "banco-mr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486282032398:android:6fabe5f771e0e9020f535f",
+        "android_client_info": {
+          "package_name": "com.example.bancomr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486282032398-3oop7hq2fd9tfava3cisf31vqehqlnno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn2JfmE7IWn5vmMi-fgbh9X_7rTqx7Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486282032398-3oop7hq2fd9tfava3cisf31vqehqlnno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
